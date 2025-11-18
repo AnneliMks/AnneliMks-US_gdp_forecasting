@@ -31,7 +31,7 @@ Le code s'exécute simplement en une fois. Plusieurs fenêtres contenant des gra
 - Le PIB américain continue sa progression ascendante, mais de manière relativement modérée.  
 - La croissance trimestrielle reste positive mais faible.
 
-## Auteur
+## Auteure
 [@AnneliMks](https://github.com/AnneliMks)
 
 ------------------------------------------------------------------------------------------------------------------
